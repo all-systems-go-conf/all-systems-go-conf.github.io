@@ -1,0 +1,170 @@
+html {
+    background: url('/img/universe_bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: transparent;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: white;
+    min-height: 100%;
+    margin-top: 2rem;
+}
+
+.container {
+    background-color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1,
+h2
+{
+    font-weight: 500;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
+h3 {
+    font-size: 1.1em;
+}
+
+#header-graphic {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+header,
+footer {
+    color: white;
+}
+
+#footer {
+    min-height: 200px;
+}
+
+footer a,
+footer a:hover
+{
+    color: white;
+}
+
+footer .col-md-4 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+footer .quicklinks a,
+footer .quicklinks a:active:focus,
+footer .quicklinks a:active,
+footer .quicklinks a:focus,
+footer .quicklinks a:hover {
+    font-weight: 200;
+    font-size: 1.6em;
+    text-decoration: none;
+}
+
+footer h3 {
+    margin-topp: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer .label {
+    font-weight: 200;
+    color: #ccc;
+}
+
+.quicklinks {
+     margin-bottom: 20px;
+}
+
+.quicklinks li::after {
+    content: "•";
+    margin-left: 8px;
+    font-size: 1.6em;
+    /*text-decoration: none;*/
+    font-weight: 300;
+}
+
+footer .social a{
+     color: black;
+}
+
+footer > .container {
+     padding-top: 40px;
+     padding-bottom: 50px;
+}
+
+.navbar {
+    background: transparent none repeat scroll 0% 0%;
+    border-color: transparent;
+    margin-bottom: 40px;
+}
+
+.navbar .navbar-nav > a,
+.navbar .navbar-nav > a:hover
+{
+    font-weight: 600;
+    color: white;
+}
+
+.nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+    letter-spacing: 1.5px;
+}
+
+.about {
+    border-right: 2px solid #00FF00;
+}
+
+.schedule {
+    border-left: 3px solid #00FF00;
+    border-right: 3px solid #0000FF;
+}
+
+.tickets {
+    border-left: 3px solid #0000FF;
+    border-right: 3px solid #FF0000;
+}
+
+.sponsors {
+    border-left: 3px solid #FF0000;
+}
+.table.green,
+.table.green th,
+.table.green td
+{
+
+    border-color: #00FF00;
+}
+
+table.blue,
+table.blue th,
+table.blue td
+{
+    border-color: #0000FF;
+}
