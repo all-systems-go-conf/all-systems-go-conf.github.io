@@ -137,23 +137,24 @@ footer > .container {
     letter-spacing: 1.5px;
 }
 
-.about {
+.navbar-nav :nth-child(1) {
     border-right: 2px solid #00FF00;
 }
 
-.schedule {
+.navbar-nav :nth-child(2) {
     border-left: 3px solid #00FF00;
     border-right: 3px solid #0000FF;
 }
 
-.tickets {
+.navbar-nav :nth-child(3) {
     border-left: 3px solid #0000FF;
     border-right: 3px solid #FF0000;
 }
 
-.sponsors {
+.navbar-nav :nth-child(4) {
     border-left: 3px solid #FF0000;
 }
+
 .table.green,
 .table.green th,
 .table.green td
