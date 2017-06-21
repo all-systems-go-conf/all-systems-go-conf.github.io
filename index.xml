@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The system-level, user-space Linux technologies conference</title>
+    <title>The user-space Linux technologies conference</title>
     <link>https://all-systems-go.io/</link>
-    <description>Recent content on The system-level, user-space Linux technologies conference</description>
+    <description>Recent content on The user-space Linux technologies conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Kinvolk GmbH</copyright>
