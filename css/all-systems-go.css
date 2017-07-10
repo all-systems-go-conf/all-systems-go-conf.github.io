@@ -17,6 +17,16 @@ body {
     margin-top: 2rem;
 }
 
+.card {
+    background-color: inherit;
+}
+
+.speaker-card a,
+.speaker-card a:hover
+{
+    color: white;
+}
+
 .container {
     background-color: black;
     padding-left: 50px;
