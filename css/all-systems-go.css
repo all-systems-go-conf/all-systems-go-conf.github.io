@@ -11,7 +11,7 @@ body {
     overflow-x: hidden;
     background-color: transparent;
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
     min-height: 100%;
     margin-top: 2rem;
@@ -22,9 +22,32 @@ body {
 }
 
 .speaker-card a,
-.speaker-card a:hover
+.speaker-card a:hover,
+.sponsor-card a,
+.sponsor-card a:hover
 {
     color: white;
+}
+
+.sponsor-card {
+    margin-bottom: 50px;
+}
+
+.solar a img {
+    max-height: 230px;
+}
+
+.lunar a img {
+    max-height: 220px;
+}
+
+.terrestrial a img {
+    max-height: 160px;
+}
+
+.sponsor-card a {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {

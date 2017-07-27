@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://all-systems-go.io/sponsors/coreos/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://all-systems-go.io/sponsors/facebook/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://all-systems-go.io/sponsors/kinvolk/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://all-systems-go.io/sponsors/pantheon/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://all-systems-go.io/sponsors/opensuse/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://all-systems-go.io/speakers/alban-crequey/</loc>
     <lastmod>2017-07-04T20:28:18+01:00</lastmod>
   </url>
@@ -64,13 +89,19 @@
   </url>
   
   <url>
+    <loc>https://all-systems-go.io/sponsors/</loc>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://all-systems-go.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://all-systems-go.io/</loc>
-    <lastmod>2017-07-04T20:28:18+01:00</lastmod>
+    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
     <priority>0</priority>
   </url>
   
