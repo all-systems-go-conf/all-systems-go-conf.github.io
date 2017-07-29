@@ -17,6 +17,17 @@ body {
     margin-top: 2rem;
 }
 
+.deadline {
+    display: block;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
+.tickets,
+.tickets th {
+    text-align: center;
+}
+
 .card {
     background-color: inherit;
 }
