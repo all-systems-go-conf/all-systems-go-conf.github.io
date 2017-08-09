@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://all-systems-go.io/sponsors/chef/</loc>
+    <lastmod>2017-08-08T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://all-systems-go.io/sponsors/coreos/</loc>
     <lastmod>2017-07-27T10:28:18+01:00</lastmod>
   </url>
@@ -68,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://all-systems-go.io/sponsors/redhat/</loc>
+    <lastmod>2017-06-08T10:28:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://all-systems-go.io/impressum/</loc>
     <lastmod>2017-05-26T14:02:49+01:00</lastmod>
   </url>
@@ -90,7 +100,7 @@
   
   <url>
     <loc>https://all-systems-go.io/sponsors/</loc>
-    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+    <lastmod>2017-08-08T10:28:18+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,7 +111,7 @@
   
   <url>
     <loc>https://all-systems-go.io/</loc>
-    <lastmod>2017-07-27T10:28:18+01:00</lastmod>
+    <lastmod>2017-08-08T10:28:18+01:00</lastmod>
     <priority>0</priority>
   </url>
   
