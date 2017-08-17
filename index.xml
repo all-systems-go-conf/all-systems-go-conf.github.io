@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Kinvolk GmbH</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 10:28:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 11:28:18 +0100</lastBuildDate>
     
 	<atom:link href="https://all-systems-go.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matthew Garrett</title>
+      <link>https://all-systems-go.io/speakers/matthew-garrett/</link>
+      <pubDate>Thu, 17 Aug 2017 11:28:18 +0100</pubDate>
+      
+      <guid>https://all-systems-go.io/speakers/matthew-garrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Magazin</title>
+      <link>https://all-systems-go.io/sponsors/linuxmagazin/</link>
+      <pubDate>Thu, 17 Aug 2017 10:28:18 +0100</pubDate>
+      
+      <guid>https://all-systems-go.io/sponsors/linuxmagazin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chef</title>

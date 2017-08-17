@@ -56,6 +56,10 @@ body {
     max-height: 160px;
 }
 
+.media a img {
+    max-height: 140px;
+}
+
 .sponsor-card a {
     margin-left: auto;
     margin-right: auto;
